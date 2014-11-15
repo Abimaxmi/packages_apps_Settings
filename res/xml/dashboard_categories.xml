@@ -314,6 +314,13 @@
                 android:fragment="com.android.settings.turbo.RootSettings"
                 android:icon="@drawable/ic_settings_root"
                 />
+        <!-- CyanogenMod Privacy Settings -->
+        <dashboard-tile
+                android:id="@+id/privacy_guard"
+                android:title="@string/privacy_guard_title"
+                android:fragment="com.android.settings.privacyguard.PrivacyGuardManager"
+                android:icon="@drawable/ic_settings_privacy"
+                />
 
  	<!-- Kernel Auditor -->
         <dashboard-tile
