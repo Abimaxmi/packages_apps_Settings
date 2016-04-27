@@ -14,16 +14,16 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- About device screen, Turbo version -->
-    <string name="turbo_version_title">Turbo version</string>
-    <string name="turbo_version_default">Unknown</string>
+    <string name="turbo_version_title">Версия Turbo</string>
+    <string name="turbo_version_default">Неизвестно</string>
     <string name="cpu_info">CPU</string>
     <string name="mem_info">RAM</string>
-    <string name="build_id">Build ID</string>
-    <string name="build_date">Build date</string>
+    <string name="build_id">ID сборки</string>
+    <string name="build_date">Дата сборки</string>
 
     <!-- Changelog -->
-    <string name="changelog_turbo_title">Changelog</string>
-    <string name="changelog_turbo_error">Unable to load changelog</string>
+    <string name="changelog_turbo_title">Список изменений</string>
+    <string name="changelog_turbo_error">Невозможно загрузить список изменений</string>
 
     <!-- Font size sample text -->
     <string name="font_size_sample">Font Size</string>
