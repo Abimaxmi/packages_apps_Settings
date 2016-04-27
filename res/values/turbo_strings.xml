@@ -1581,4 +1581,9 @@
     <string name="su_indicator_summary_on">Superuser indicator is visible when a session is active</string>
     <string name="su_indicator_summary_off">Toggle to show superuser indicator when a session is active</string>
 
+    <!-- Force enable MTP mode -->
+    <string name="force_enable_mtp_mode">HACK: Force enable MTP mode</string>
+    <string name="force_enable_mtp_mode_summary">WARNING: This is not very secure as MTP mode is enabled everywhere. Use at your own risk!</string>
+    <string name="privacy_guard_notification_title">Show notification</string>
+
 </resources>

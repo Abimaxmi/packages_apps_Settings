@@ -185,6 +185,11 @@
             android:entries="@array/usb_configuration_titles"
             android:entryValues="@array/usb_configuration_values" />
 
+	<com.android.settings.preference.SystemSettingSwitchPreference
+            android:key="force_enable_mtp_mode"
+            android:title="@string/force_enable_mtp_mode"
+            android:summary="@string/force_enable_mtp_mode_summary"/>
+
        <SwitchPreference
             android:key="show_unac_and_overcounted_stats"
             android:title="@string/show_unac_and_overcounted_stats_title"
